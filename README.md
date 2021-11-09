@@ -6,5 +6,4 @@ The interpolation method used to downsample images is bicubic, by default.
 ```
 $ python make_dataset.py --src source --dst dest --scale 2 3 4 --val_r 0.1 --recursive
 ```
-# Create config 
 
